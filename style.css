@@ -1,10 +1,6 @@
 body {
   font-family: 'Patrick Hand', cursive;
   /* background-color: #795617; */
-  background-image: url("./wall_2.jpeg");
-  background-position: center;
-  background-size: cover;
-  background-size: 70%;
   display: flex;
   justify-content: center;
   align-items: center;
